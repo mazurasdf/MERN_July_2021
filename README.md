@@ -2,7 +2,7 @@
 with your gracious host: @mazurasdf
 
 ## Here's some handy information for this repo:
-* in your terminal of choice, run `git clone https://github.com/NicholeKing/MERN_Nov2020.git`
+* in your terminal of choice, run `git clone https://github.com/mazurasdf/MERN_July_2021.git`
 * cd into the project of your choice
 ##### if the project is react only
 1. run `npm install` to install the dependencies of the project
